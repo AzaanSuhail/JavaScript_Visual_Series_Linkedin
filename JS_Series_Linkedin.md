@@ -1,4 +1,3 @@
-
 # JavaScript Visual Series Linkedin
 
 * [X] Day 1 : https://www.linkedin.com/feed/update/urn:li:activity:7356575933585113088/
@@ -6,3 +5,6 @@
 * [X] [Day 3](https://www.linkedin.com/feed/update/urn:li:activity:7357221109089406976/)
 * [X] [Day 4](https://www.linkedin.com/feed/update/urn:li:activity:7357587265440673792/)
 * [X] [Day 5](https://www.linkedin.com/feed/update/urn:li:activity:7357949652979077120/)
+* [X] [Day 6]( "https://www.linkedin.com/feed/update/urn:li:activity:7358312047152939008/")
+* [X] [Day 7]( "https://www.linkedin.com/feed/update/urn:li:activity:7358674427456180224/")
+* [X] [Day 8]( "https://www.linkedin.com/feed/update/urn:li:activity:7359222690890616833/")
